@@ -4,6 +4,7 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
+
 Console.Write("Ввведите число №1: ");
 int firstNumber = Convert.ToInt32 (Console.ReadLine ());
 
